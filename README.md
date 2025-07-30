@@ -4,7 +4,7 @@
 ## Hello, World! 👋
 I'm William, an aspiring software engineer and the creator of Beaduric and LineageLedger.
 At the moment, I'm concentrating on information assurance, full-stack web development, and honing my programming and database-oriented skillsets in general.
-In my spare time, I like to run, read, learn foreign languages (German~B2, Japanese=beginner), and play grand strategy ("4X") games.
+In my spare time, I like to run, read, learn foreign languages (German~B2, Japanese=beginner), explore genealogies, and play grand strategy ("4X") games.
 ## 🧰 My Toolbox:
 ### 🗃️ Languages
 ![Python](https://img.shields.io/badge/Python-F9EO76?style=for-the-badge&logo=python&logoColor=white) 

@@ -57,8 +57,8 @@ In my spare time, I like to run, read, learn foreign languages (German~B2, Japan
 ![Heroku](https://img.shields.io/badge/Heroku-B6FCF?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ### 🖥️ IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-9867C5?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-3944BC?style=for-the-badge&logo=visualstudio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-9867C5?style=for-the-badge&logo=visualstudio&logoColor=white) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-311432?style=for-the-badge&logo=eclipseide&logoColor=white) 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-E11584?style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-FC46AA?style=for-the-badge&logo=apachenetbeanside&logoColor=white) 

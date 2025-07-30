@@ -2,7 +2,7 @@
 **wahickssware84/wahickssware84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Hello, World! 👋
-I'm William, an aspiring software engineer and the creator of Beaduric and LineageLedger. \n
+I'm William, an aspiring software engineer and the creator of Beaduric and LineageLedger.
 At the moment, I'm concentrating on information assurance, full-stack web development, and honing my programming and database-oriented skillsets in general.
 ## 🧰 My Toolbox:
 ### 🗃️ Languages

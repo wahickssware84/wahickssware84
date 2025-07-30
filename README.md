@@ -8,7 +8,7 @@ At the moment, I'm concentrating on information assurance, full-stack web develo
 ### 🗃️ Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![C/C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c/cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-C95B0C?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html&logoColor=white) 

@@ -60,9 +60,10 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-9867C5?style=for-the-badge&logo=visualstudio&logoColor=white) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-311432?style=for-the-badge&logo=eclipseide&logoColor=white) 
-![IntelliJ](https://img.shields.io/badge/IntelliJ-E11584?style=for-the-badge&logo=intellijidea&logoColor=white) 
+![IntelliJ](https://img.shields.io/badge/IntelliJ-E11584?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-008B8B?style=for-the-badge&logo=arduino&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-FC46AA?style=for-the-badge&logo=apachenetbeanside&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-008B8B?style=for-the-badge&logo=arduino&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-50B05F?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-710C04?style=for-the-badge&logo=spyderide&logoColor=white)
 ### ♾️ DevOps & Infrastructure
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0492C2?style=for-the-badge&logo=githubactions&logoColor=white) 

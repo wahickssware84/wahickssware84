@@ -7,8 +7,9 @@ At the moment, I'm concentrating on information assurance, full-stack web develo
 In my spare time, I like to run, read, learn foreign languages (German≈B2, Japanese≈N5), explore genealogies, and play grand strategy ("4X") games.
 ## 🧰 My Toolbox:
 ### 🗃️ Languages
-![Python](https://img.shields.io/badge/Python-F9EO76?style=for-the-badge&logo=python&logoColor=white) 
-![C/C++](https://img.shields.io/badge/C%2B%2B-30D5C8?style=for-the-badge&logo=c/cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-F9EO76?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C%2B%2B-30D5C8?style=for-the-badge&logo=c/cplusplus&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-30D5C8?style=for-the-badge&logo=c/cplusplus&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-C95B0C?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EEE600?style=for-the-badge&logo=javascript&logoColor=white) 

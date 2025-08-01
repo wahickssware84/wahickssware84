@@ -28,7 +28,7 @@ In my spare time, I like to run, read, learn foreign languages (German~B2, Japan
 ![NestJS](https://img.shields.io/badge/NestJS-900D09?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-EEE600?style=for-the-badge&logo=express&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-022D36?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Jakarta EE](https://img.shields.io/badge/JakartaEE-051094?style=for-the-badge&logo=jakartaee&logoColor=white)
+![Jakarta_EE](https://img.shields.io/badge/JakartaEE-051094?style=for-the-badge&logo=jakartaee&logoColor=white)
 ### 📚 Libraries
 ![JUnit](https://img.shields.io/badge/JUnit-5DBB63?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-7A4988?style=for-the-badge&logo=redux&logoColor=white) 
@@ -54,7 +54,7 @@ In my spare time, I like to run, read, learn foreign languages (German~B2, Japan
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-322D31?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-DD571C?style=for-the-badge&logo=firebase&logoColor=white) 
-![Heroku](https://img.shields.io/badge/Heroku-B6FCF?style=for-the-badge&logo=heroku&logoColor=white) 
+![Heroku](https://img.shields.io/badge/Heroku-E6E6FA?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ### 🖥️ IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 

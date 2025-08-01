@@ -8,7 +8,6 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ## 🧰 My Toolbox:
 ### 🗃️ Languages
 ![Python](https://img.shields.io/badge/Python-F9EO76?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C%2B%2B-30D5C8?style=for-the-badge&logo=c/cplusplus&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-30D5C8?style=for-the-badge&logo=c/cplusplus&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-C95B0C?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white)

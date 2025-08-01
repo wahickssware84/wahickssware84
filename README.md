@@ -28,7 +28,7 @@ In my spare time, I like to run, read, learn foreign languages (German~B2, Japan
 ![NestJS](https://img.shields.io/badge/NestJS-900D09?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-EEE600?style=for-the-badge&logo=express&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-022D36?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Jakarta_EE](https://img.shields.io/badge/JakartaEE-051094?style=for-the-badge&logo=jakartaee&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/JakartaEE-000080?style=for-the-badge&logo=jakartaee&logoColor=white)
 ### 📚 Libraries
 ![JUnit](https://img.shields.io/badge/JUnit-5DBB63?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-7A4988?style=for-the-badge&logo=redux&logoColor=white) 

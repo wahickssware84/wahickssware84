@@ -54,7 +54,7 @@ In my spare time, I like to run, read, learn foreign languages (German~B2, Japan
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-322D31?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-DD571C?style=for-the-badge&logo=firebase&logoColor=white) 
-![Heroku](https://img.shields.io/badge/Heroku-E6E6FA?style=for-the-badge&logo=heroku&logoColor=white) 
+![Heroku](https://img.shields.io/badge/Heroku-4B0082?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ### 🖥️ IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 

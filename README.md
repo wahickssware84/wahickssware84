@@ -62,7 +62,7 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ### 🖥️ IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-9867C5?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Dev-C++](https://img.shields.io/badge/Dev--C++-blue?style=for-the-badge&logo=devcpp&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-960000?style=for-the-badge&logo=devcpp&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-50B05F?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-710C04?style=for-the-badge&logo=spyderide&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-FC46AA?style=for-the-badge&logo=apachenetbeanside&logoColor=white) 

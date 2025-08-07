@@ -80,7 +80,7 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0492C2?style=flat-square&logo=githubactions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-152086?style=flat-square&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3944BC?style=flat-square&logo=kubernetes&logoColor=white) 
-![nginx](https://img.shields.io/badge/Nginx-03C04A?style=flat-square&logo=nginx&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-03C04A?style=flat-square&logo=nginx&logoColor=white)
 ### 🧠 Diagramming
 ![RAPTOR](https://img.shields.io/badge/RAPTOR-0A1172?style=flat-square&logo=raptor&logoColor=white) 
 ![draw.io](https://img.shields.io/badge/draw.io-FCAE1E?style=flat-square&logo=diagramsdotnet&logoColor=white) 

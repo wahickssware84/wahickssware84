@@ -17,7 +17,9 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![HTML](https://img.shields.io/badge/HTML-F263C3?style=flat-square&logo=html&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-F263C3?style=flat-square&logo=css&logoColor=white)
 ### 📐Frameworks
-![Django](https://img.shields.io/badge/Django-016064?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0EAD16?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0EAD16?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0EAD16?style=flat-square&logo=fastapi&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-900603?style=flat-square&logo=rubyonrails&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-CF7D04?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-CF7D04?style=flat-squarec&logo=springboot&logoColor=white) 

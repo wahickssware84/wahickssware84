@@ -36,7 +36,7 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![pandas](https://img.shields.io/badge/pandas-0EAD16?style=flat-square&logo=pandas&logoColor=white)
 ![pytest](https://img.shields.io/badge/pandas-0EAD16?style=flat-square&logo=pytest&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-0EAD16?style=flat-square&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/BeautifulSoup-0EAD16?style=flat-square&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0EAD16?style=flat-square&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-900603?style=flat-square&logoColor=white)
 ![Capybara](https://img.shields.io/badge/Capybara-900603?style=flat-square&logoColor=white)
 ![Sidekiq](https://img.shields.io/badge/Sidekiq-900603?style=flat-square&logoColor=white)

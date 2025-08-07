@@ -53,8 +53,8 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![Apache Ant](https://img.shields.io/badge/Apache_Ant-CF7D04?style=flat-square&logo=apacheant&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-CF7D04?style=flat-square&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-CF7D04?style=flat-square&logo=apachemaven&logoColor=white)
-![esbuild](https://img.shields.io/badge/ESbuild-EBEB1C?style=flat-square&logo=esbuild&logoColor=white) 
-![webpack](https://img.shields.io/badge/Webpack-EBEB1C?style=flat-square&logo=webpack&logoColor=white)
+![esbuild](https://img.shields.io/badge/esbuild-EBEB1C?style=flat-square&logo=esbuild&logoColor=white) 
+![webpack](https://img.shields.io/badge/webpack-EBEB1C?style=flat-square&logo=webpack&logoColor=white)
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-5DBB63?style=flat-square&logo=mongodb&logoColor=white) 
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-1338BE?style=flat-square&logo=amazondynamodb&logoColor=white)

@@ -34,7 +34,7 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-0EAD16?style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0EAD16?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-0EAD16?style=flat-square&logo=pandas&logoColor=white)
-![pytest](https://img.shields.io/badge/pandas-0EAD16?style=flat-square&logo=pytest&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0EAD16?style=flat-square&logo=pytest&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-0EAD16?style=flat-square&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0EAD16?style=flat-square&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-900603?style=flat-square&logoColor=white)

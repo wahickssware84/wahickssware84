@@ -76,6 +76,7 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-CF7D04?style=flat-square&logo=apachenetbeanside&logoColor=white) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-CF7D04?style=flat-square&logo=eclipseide&logoColor=white) 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-CF7D04?style=flat-square&logo=intellijidea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-FF5C00?style=flat-square&logo=jupyter&logoColor=white)
 ### ♾️ DevOps & Infrastructure
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0492C2?style=flat-square&logo=githubactions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-152086?style=flat-square&logo=docker&logoColor=white) 

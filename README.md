@@ -24,6 +24,7 @@ In my spare time, I like to run, read, learn foreign languages (German≈B2, Jap
 ![JavaFX](https://img.shields.io/badge/JavaFX-CF7D04?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-CF7D04?style=flat-squarec&logo=springboot&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-CF7D04?style=flat-square&logo=hibernate&logoColor=white)
+![.NET](https://img.shields.io/badge/C%23-090985?style=flat-square&logo=csharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-EBEB1C?style=flat-square&logo=angular&logoColor=white)
 ![express.js](https://img.shields.io/badge/express.js-EBEB1C?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-EBEB1C?style=flat-square&logo=nestjs&logoColor=white) 

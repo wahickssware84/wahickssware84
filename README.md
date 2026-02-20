@@ -7,7 +7,7 @@ At the moment, I'm concentrating on information assurance and honing my programm
 ## 🧰 My Toolbox
 ### 🗃️ Languages
 ![Python](https://img.shields.io/badge/Python-01796F?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-1520A6?style=flat-square&logo=c/cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-007FFF?style=flat-square&logo=c/cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-CF7D04?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-090985?style=flat-square&logo=csharp&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-A47DAB?style=flat-square&logo=julia&logoColor=white)
@@ -47,8 +47,8 @@ At the moment, I'm concentrating on information assurance and honing my programm
 ![Spyder](https://img.shields.io/badge/Spyder-01796F?style=flat-square&logo=spyderide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-9867C5?style=flat-square&logo=visualstudio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-1520A6?style=flat-square&logo=arduino&logoColor=white)
-![Dev-C++](https://img.shields.io/badge/Dev--C++-1520A6?style=flat-square&logo=devcpp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-007FF?style=flat-square&logo=arduino&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-007FF?style=flat-square&logo=devcpp&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-CF7D04?style=flat-square&logo=apachenetbeanside&logoColor=white) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-CF7D04?style=flat-square&logo=eclipseide&logoColor=white) 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-CF7D04?style=flat-square&logo=intellijidea&logoColor=white)

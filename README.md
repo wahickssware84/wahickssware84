@@ -59,5 +59,5 @@ At the moment, I'm concentrating on information assurance and honing my programm
 ![nginx](https://img.shields.io/badge/nginx-03C04A?style=flat-square&logo=nginx&logoColor=white)
 ### 🧠 Diagramming
 ![RAPTOR](https://img.shields.io/badge/RAPTOR-0A1172?style=flat-square&logo=raptor&logoColor=white) 
-![draw.io](https://img.shields.io/badge/draw.io-FCAE1E?style=flat-square&logo=diagramsdotnet&logoColor=white) 
+![draw.io](https://img.shields.io/badge/draw.io-FF991C?style=flat-square&logo=diagramsdotnet&logoColor=white) 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FC6A03?style=flat-square&logo=lucidchart&logoColor=white)

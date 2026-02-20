@@ -10,6 +10,7 @@ At the moment, I'm concentrating on information assurance, full-stack web develo
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c/cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-CF7D04?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-090985?style=flat-square&logo=csharp&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-A47DAB?style=flat-square&logo=julia&logoColor=white)
 ### 📐Frameworks
 ![Django](https://img.shields.io/badge/Django-086619?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-086619?style=flat-square&logo=flask&logoColor=white)

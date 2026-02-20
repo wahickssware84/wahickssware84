@@ -6,26 +6,26 @@ I'm William, an aspiring software engineer and the creator of Beaduric and Linea
 At the moment, I'm concentrating on information assurance and honing my programming and database-oriented skillsets in general.
 ## 🧰 My Toolbox
 ### 🗃️ Languages
-![Python](https://img.shields.io/badge/Python-4CBB17?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-088F8F?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c/cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-CF7D04?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-090985?style=flat-square&logo=csharp&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-A47DAB?style=flat-square&logo=julia&logoColor=white)
 ### 📐Frameworks
-![Django](https://img.shields.io/badge/Django-4CBB17?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-4CBB17?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4CBB17?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-088F8F?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-088F8F?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-088F8F?style=flat-square&logo=fastapi&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-CF7D04?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-CF7D04?style=flat-squarec&logo=springboot&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-CF7D04?style=flat-square&logo=hibernate&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-090985?style=flat-square&logoColor=white)
 ### 📚 Libraries
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CBB17?style=flat-square&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4CBB17?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-4CBB17?style=flat-square&logo=pandas&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-4CBB17?style=flat-square&logo=pytest&logoColor=white)
-![requests](https://img.shields.io/badge/requests-4CBB17?style=flat-square&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4CBB17?style=flat-square&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-088F8F?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-088F8F?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-088F8F?style=flat-square&logo=pandas&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-088F8F?style=flat-square&logo=pytest&logoColor=white)
+![requests](https://img.shields.io/badge/requests-088F8F?style=flat-square&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-088F8F?style=flat-square&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-CF7D04?style=flat-square&logo=junit5&logoColor=white)
 ### 🧱 Build Tools
 ![Apache Ant](https://img.shields.io/badge/Apache_Ant-CF7D04?style=flat-square&logo=apacheant&logoColor=white)
@@ -43,8 +43,8 @@ At the moment, I'm concentrating on information assurance and honing my programm
 ![Heroku](https://img.shields.io/badge/Heroku-4B0082?style=flat-square&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ### 🖥️ IDEs
-![PyCharm](https://img.shields.io/badge/PyCharm-4CBB17?style=flat-square&logo=pycharm&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-4CBB17?style=flat-square&logo=spyderide&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-088F8F?style=flat-square&logo=pycharm&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-088F8F?style=flat-square&logo=spyderide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3944BC?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-9867C5?style=flat-square&logo=visualstudio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)

@@ -34,7 +34,7 @@ At the moment, I'm concentrating on information assurance and honing my programm
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-5DBB63?style=flat-square&logo=mongodb&logoColor=white) 
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-1338BE?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-90E0EF?style=flat-square&logo=apachecassandra&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-blue?style=flat-square&logo=apachecassandra&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-59788E?style=flat-square&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F456E?style=flat-square&logo=postgresql&logoColor=white) 
 ### ☁️ Cloud
